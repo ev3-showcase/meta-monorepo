@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "api-server": "https://github.com/ev3-showcase/api-server.git",
+    "frontend-react": "https://github.com/ev3-showcase/frontend-react.git",
+    "documentation": "https://github.com/ev3-showcase/documentation.git",
+    "ev3-scripts": "https://github.com/ev3-showcase/ev3-scripts.git",
+    "frontend": "https://github.com/ev3-showcase/frontend.git",
+    "message-broker": "https://github.com/ev3-showcase/message-broker.git"
+  }
+}
