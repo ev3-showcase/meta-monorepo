@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Develop\\ev3showcase"
+		},
+		{
+			"path": "api-server"
+		},
+		{
+			"path": "documentation"
+		},
+		{
+			"path": "ev3-scripts"
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "frontend-react"
+		},
+		{
+			"path": "message-broker"
+		}
+	],
+	"settings": {}
+}
